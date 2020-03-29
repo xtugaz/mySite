@@ -1,0 +1,160 @@
+body {
+    color: #40514E;
+    font-family: 'Merriweather', serif;
+    margin: 0;
+    text-align: center;
+}
+a{
+    color: #11999e;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+h1 {
+    color: #66BFBF;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem; 
+    margin: 50px auto 0 auto;
+    
+}
+h2 {
+    color: #66BFBF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+}
+h3 {
+    color: #11999e;
+    font-family: 'Montserrat', sans-serif;
+}
+p {
+    line-height: 2;
+}
+hr {
+    border-color: #EAF6F6;
+    border-style: dotted none none;
+    border-width: 15px;
+    clear: both;
+    width: 8%;
+}
+.top-container {
+    background-color: #E4F9F5;
+    padding-top: 100px;
+    position: relative;
+}
+.top-cloud {
+    position: absolute;
+    right: 700px;
+    top: 40px;
+}
+
+.bottom-cloud {
+    bottom: 300px;
+    left: 600px;
+    position: absolute;  
+}
+.footer-link{
+    font-size: 1.5rem;
+}
+.footer-link:hover{
+    color: #EAF6F6;
+}
+.btn {
+    background-image: linear-gradient(to bottom, #11CDD4 , #11999E);
+    border-radius: 5px;
+    color: #EAF6F6;
+    padding: 10px 15px;
+}
+.btn:hover {
+    background-image: linear-gradient(to bottom, #30E3CB , #2BC4AD);
+}
+.profile {
+    margin: 100px 0 100px 0;
+}
+.skills {
+    margin: 100px 0 100px 0;
+}
+.contact-me {
+    margin: 100px 0 100px 0;
+}
+.pro {
+    text-decoration: underline;
+}
+
+.intro{
+    margin: auto;
+    width: 30%;
+}
+.contact-message {
+    margin: 40px auto 60px;
+    width: 25%;
+}
+.diogo-img{
+    border-radius: 100%;
+    height: 200px;
+    width: 200px;
+}
+
+.middle-container{
+    margin: 100px 0;
+}
+
+.bottom-container{
+    background-color: #66BFBF;
+    line-height: 2;
+    padding: 50px 0 20px;
+    height: 100px;
+}
+.skill-row {
+    margin: 100px auto 200px auto;
+    text-align: justify;
+    width: 50%;
+}
+.telecom-img  {
+    float: left;
+    margin-right: 30px;
+    width: 22%;
+}
+
+.bike-img  {
+    float: right;
+    margin-left: 30px;
+    width: 15%;
+}
+
+.last-p {
+    color:  #EAF6F6;
+}
+/*.skill-telecom-p {
+    clear: left;
+}
+.skill-bike-p {
+    clear: right;
+}*/
+/* Challange
+.box1 {
+    border-color: black;
+    border-style: solid;
+    border-width: 10px;
+    height: 200px;   
+    padding: 20px;
+    width: 200px;
+}
+
+.box2 {
+    background-color: red;
+    border: solid 20px;
+    margin-left: 260px;
+    height: 200px;   
+    width: 200px;
+}
+
+.box3 {
+    background-color: yellow;
+    border: solid 10px;
+    margin-left: 500px;
+    height: 200px;   
+    width: 200px;
+
+}*/
